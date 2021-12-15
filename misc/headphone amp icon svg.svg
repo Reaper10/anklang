@@ -7,8 +7,8 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="grain fx icon svg.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="headphone amp icon svg.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,13 +25,13 @@
      showgrid="false"
      inkscape:zoom="0.79834536"
      inkscape:cx="508.55184"
-     inkscape:cy="532.97736"
+     inkscape:cy="529.21958"
      inkscape:window-width="1680"
      inkscape:window-height="956"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g7161" />
   <defs
      id="defs2" />
   <g
@@ -545,6 +545,11 @@
          style="fill:#ffffff;stroke:#000000;stroke-width:1.203;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.300749, 0.300749;stroke-opacity:0.955017;paint-order:stroke markers fill"
          d="m 169.20639,220.4718 c -0.10683,-0.17285 0.65396,-0.76065 1.49668,-1.15637 1.37241,-0.64445 2.8223,-0.91466 4.66788,-0.86992 0.34282,0.008 0.40727,0.0571 0.40727,0.30858 0,0.2909 -0.0319,0.30001 -1.2218,0.34854 -1.05862,0.0432 -1.33851,0.10457 -2.09577,0.45974 -0.48069,0.22545 -1.05492,0.54793 -1.27609,0.71661 -0.32349,0.24675 -0.54929,0.30671 -1.15495,0.30671 -0.41406,0 -0.78451,-0.0513 -0.82322,-0.11389 z"
          id="path6989" />
+      <path
+         style="fill:#ffffff;stroke:#000000;stroke-width:11.0402;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+         d="m 544.59982,901.07518 -4.63146,-3.29533 7.64704,-8.60428 c 4.20587,-4.73236 8.01281,-8.60428 8.45986,-8.60428 1.51419,0 10.30302,12.42976 9.5968,13.57244 -0.56265,0.91039 -15.32284,10.22678 -16.20253,10.22678 -0.13104,0 -2.32241,-1.4829 -4.86971,-3.29533 z"
+         id="path990"
+         transform="matrix(0.26458333,0,0,0.26458333,25.187512,9.2796097)" />
     </g>
   </g>
 </svg>
