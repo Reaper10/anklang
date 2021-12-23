@@ -188,5 +188,30 @@
        d="m 173.38867,811.09426 c -1.31409,-3.72288 -1.17944,-22.64554 0.18658,-26.21915 l 1.00069,-2.61787 0.92307,2.61787 c 1.40322,3.9796 1.29725,24.27743 -0.14032,26.87621 l -1.06104,1.91812 z"
        id="path1300"
        transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.3948;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 128.51552,813.54289 c -0.19807,-0.32048 -0.80986,-2.30934 -1.35953,-4.41969 -1.81592,-6.97178 -1.02141,-21.79913 1.39992,-26.12581 0.61769,-1.10375 0.74205,-1.04628 1.4228,0.65747 1.44163,3.60804 2.05948,7.84185 2.07539,14.22147 0.0214,8.59047 -2.1019,17.99116 -3.53858,15.66656 z"
+       id="path1374"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.3948;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 112.69715,817.64014 c 4.86453,-7.16829 5.52177,-26.26964 1.28034,-37.21061 -0.40028,-1.03254 0.0572,-1.14986 4.48363,-1.14986 h 4.92939 l -1.33407,4.10666 c -1.683,5.18079 -2.30902,18.12683 -1.18871,24.58273 0.85919,4.95118 2.49899,9.16495 4.24669,10.91265 1.07665,1.07665 0.73969,1.13602 -6.44736,1.13602 h -7.58339 z"
+       id="path1413"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.3948;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 106.10279,809.99748 c -2.10318,-7.3692 -1.3627,-23.53611 1.24111,-27.09704 0.74524,-1.01917 0.98652,-0.70818 2.09951,2.70612 1.71797,5.27018 1.7673,19.20922 0.0875,24.71945 -0.63348,2.07797 -1.40024,3.77813 -1.70391,3.77813 -0.30367,0 -1.07955,-1.848 -1.72418,-4.10666 z"
+       id="path1452"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.3948;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d=""
+       id="path1530"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.3948;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 128.07401,811.14734 c -1.28557,-3.62596 -1.29076,-21.8493 -0.007,-25.95408 l 0.92444,-2.9568 1.26221,3.9424 c 1.07334,3.35246 1.22099,5.36804 0.98671,13.46984 -0.1858,6.42544 -0.59435,10.27621 -1.25481,11.82718 l -0.97932,2.29973 z"
+       id="path1569"
+       transform="scale(0.26458333)" />
   </g>
 </svg>
