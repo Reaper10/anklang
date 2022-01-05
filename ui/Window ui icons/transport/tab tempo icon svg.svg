@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tab tempo icon svg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.94316065"
+     inkscape:cx="396.53902"
+     inkscape:cy="1167.8816"
+     inkscape:window-width="1680"
+     inkscape:window-height="956"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect987"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect863"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect859"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path983"
+       style="fill:none;stroke:#000000;stroke-width:1.856;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 170.67951,127.67241 c 7.14628,-5.21634 12.35135,-13.03161 14.41007,-21.63632 2.05873,-8.604713 0.95452,-17.929513 -3.05697,-25.815412 -5.56638,-10.94254 -16.7947,-18.803572 -28.98134,-20.290044 -12.18664,-1.486472 -24.97535,3.445067 -33.00883,12.728756 m 50.63707,55.01302 -75.201987,44.33146 M 47.549532,104.30227 C 45.07435,96.60259 45.036007,88.139189 47.44132,80.417398 49.846634,72.695607 54.684485,65.751125 61.094396,60.819124 71.186991,53.053541 85.152165,50.609893 97.282008,54.486959 109.41185,58.364025 119.37073,68.454525 123.08821,80.634226 m -75.538678,23.668044 47.927991,67.7016" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.856;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       id="rect1197"
+       width="87.952789"
+       height="13.171674"
+       x="-87.366371"
+       y="213.2944"
+       ry="0"
+       rx="0"
+       transform="rotate(-29.90711)" />
+    <path
+       id="rect1301"
+       style="fill:none;stroke:#000000;stroke-width:7.0148;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="M 451.83984 674.02734 L 408.68555 698.84961 L 573.47461 985.3418 L 572.65039 985.81641 L 597.47266 1028.9707 L 885.20117 863.4707 L 1026.4375 1109.0156 L 1069.5898 1084.1934 L 903.84766 796.04102 L 861.11719 820.61719 L 860.80469 820.07422 L 616.62695 960.52148 L 451.83984 674.02734 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
