@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="calf delay plugin icon svg.svg"
+   sodipodi:docname="mic 1 track icon svg.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      showgrid="false"
      inkscape:zoom="0.76508705"
      inkscape:cx="326.7602"
-     inkscape:cy="693.38515"
+     inkscape:cy="689.46403"
      inkscape:window-width="1680"
      inkscape:window-height="956"
      inkscape:window-x="-11"
@@ -516,6 +516,16 @@
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.41676;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.955017;paint-order:stroke markers fill"
        d="m 692.56906,343.84393 c -4.0571,-10.13969 -6.25078,-33.54964 -6.25078,-66.70542 0,-31.7416 2.04754,-54.95853 5.8015,-65.78283 1.59808,-4.60795 2.60399,-4.67332 4.13142,-0.26851 3.85121,11.10609 5.87766,33.90769 5.87993,66.16073 0.002,33.16516 -2.3117,57.47038 -6.35417,66.74061 l -1.64274,3.76715 z"
        id="path16101"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:5.7551;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 72.481354,984.91466 -3.208191,-3.20819 v -72.42391 c 0,-71.2902 0.04241,-72.47782 2.708947,-75.86778 l 2.708947,-3.44386 h 44.903173 44.90318 l 2.70895,3.44386 c 2.66654,3.38996 2.70895,4.57758 2.70895,75.86778 v 72.42391 l -3.20819,3.20819 -3.2082,3.20819 H 119.59423 75.689545 Z M 96.067139,977.197 c 6.184391,-9.43857 9.892151,-57.56805 7.440121,-96.57825 -2.20534,-35.08564 -5.826656,-50.19034 -11.770158,-49.09398 -6.188373,1.14153 -10.310943,22.74303 -11.552047,60.53059 -0.856448,26.07601 0.930421,58.648 4.028058,73.42556 2.847599,13.58474 7.570849,18.25302 11.854026,11.71608 z"
+       id="path964"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:5.7551;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 84.957653,1037.4058 c -2.53207,-1.281 -3.267602,-2.6655 -3.267602,-6.1506 0,-7.3538 2.189117,-7.8011 38.290359,-7.823 l 31.75515,-0.019 3.20819,3.2081 c 4.0087,4.0087 4.0087,5.2595 0,9.2682 l -3.20819,3.2081 -31.75515,-0.019 c -22.975102,-0.014 -32.658622,-0.4764 -35.022757,-1.6724 z"
+       id="path1003"
        transform="scale(0.26458333)" />
   </g>
 </svg>
