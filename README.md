@@ -7,8 +7,8 @@ ANKLANG icon library
 
 the Anklang icon library is for the Anklang is a digital audio synthesis application. 
 
-eatch icon file has
-	line art icon
-	white icon
-	silhoutte icon
-	full colr icon
+eatch icon file has:
+line art icon
+white icon
+silhoutte icon
+full colr icon
