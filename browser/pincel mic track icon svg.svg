@@ -403,5 +403,15 @@
        d="m 306.01954,1050.6357 c 0,-4.1932 -4.56847,-13.0185 -9.40702,-18.1723 -1.1833,-1.2604 -1.88172,-2.2916 -1.55205,-2.2916 0.75972,0 7.66087,3.7752 17.82542,9.7513 l 7.92402,4.6588 -4.55685,1.4765 c -2.50627,0.812 -5.83411,2.5029 -7.39519,3.7574 -2.60747,2.0954 -2.83833,2.1621 -2.83833,0.8199 z"
        id="path1341"
        transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.59038;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d=""
+       id="path1530"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.59038;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 204.91283,1037.8032 c 0.44843,-0.7256 4.50682,-0.772 4.504,-0.052 -0.001,0.2909 -1.0957,0.552 -2.43235,0.5803 -1.33665,0.028 -2.26889,-0.2097 -2.07165,-0.5288 z"
+       id="path1569"
+       transform="scale(0.26458333)" />
   </g>
 </svg>
