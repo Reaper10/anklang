@@ -1353,5 +1353,25 @@
        d="m 186.78669,870.68736 c -2.36184,-1.44015 -2.91737,-2.61487 -2.03943,-4.31262 1.15117,-2.22611 2.87768,-2.65279 10.7343,-2.65279 8.12707,0 10.60087,0.67977 11.20289,3.0784 0.43652,1.73926 -0.25109,2.82518 -2.52345,3.98516 -2.78411,1.42124 -14.99565,1.35225 -17.37431,-0.0982 z"
        id="path1247"
        transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.96722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 214.64332,858.46433 c -0.15339,-0.24818 0.28387,-0.70764 0.97168,-1.02103 0.68781,-0.31338 2.08251,-1.30025 3.09933,-2.19303 l 1.84878,-1.62325 1.51557,1.58191 1.51557,1.58192 h -2.25364 c -1.2395,0 -3.19071,0.47806 -4.33602,1.06236 -1.14532,0.58429 -2.20789,0.8593 -2.36127,0.61112 z"
+       id="path1548"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.96722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 172.88356,675.00743 c -0.75161,-1.20352 -0.57522,-1.35741 2.11136,-1.84203 1.15852,-0.20898 2.76511,-1.09462 3.86154,-2.12868 1.55256,-1.46425 1.98373,-1.64294 2.49062,-1.03217 0.33715,0.40625 0.51884,0.79993 0.40374,0.87485 -0.11509,0.0749 -1.08102,0.53176 -2.14651,1.0152 -1.06549,0.48344 -2.77662,1.61595 -3.80252,2.5167 -1.02589,0.90076 -1.95582,1.63773 -2.0665,1.63773 -0.11068,0 -0.49396,-0.46872 -0.85173,-1.0416 z"
+       id="path1698"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.96722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d=""
+       id="path1774"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.96722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d=""
+       id="path1852"
+       transform="scale(0.26458333)" />
   </g>
 </svg>
