@@ -25,7 +25,7 @@
      showgrid="false"
      inkscape:zoom="1.8756036"
      inkscape:cx="222.32843"
-     inkscape:cy="764.28729"
+     inkscape:cy="544.09151"
      inkscape:window-width="1680"
      inkscape:window-height="956"
      inkscape:window-x="-11"
@@ -1372,6 +1372,21 @@
        style="fill:#ffffff;stroke:#000000;stroke-width:4.96722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
        d=""
        id="path1852"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.96722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 152.15403,664.36768 c -3.47689,-2.12013 -3.35041,-5.98459 0.27577,-8.4256 1.63489,-1.10054 2.42977,-1.21951 8.14784,-1.21951 6.88646,0 9.27783,0.60608 10.76417,2.72812 1.41347,2.01802 1.09517,4.08386 -0.94333,6.12236 l -1.81275,1.81275 -7.38429,-0.002 c -6.31702,-0.002 -7.62467,-0.14857 -9.04741,-1.01613 z"
+       id="path2274"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.96722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 123.42693,673.91639 -1.5324,-1.59949 h 3.58385 3.58385 l -1.82171,1.59949 c -1.00194,0.87971 -1.92509,1.59948 -2.05145,1.59948 -0.12635,0 -0.91931,-0.71977 -1.76214,-1.59948 z"
+       id="path2387"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:4.96722;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.955017;paint-order:stroke markers fill"
+       d="m 185.27369,668.4991 c -2.61977,-1.4407 -2.90797,-2.424 -2.92053,-9.96443 l -0.0119,-7.11771 1.81275,-1.81275 1.81275,-1.81275 h 12.34251 c 13.64969,0 14.74753,0.21951 16.32155,3.26333 0.67861,1.31228 0.81549,2.99424 0.67548,8.30002 l -0.17559,6.65422 -1.74119,1.55445 -1.74119,1.55445 -12.65418,-0.0162 c -8.17022,-0.0105 -13.03202,-0.22401 -13.7205,-0.60262 z m 22.94801,-1.98282 c 5.71287,-2.59499 7.20756,-9.01024 3.0313,-13.01039 -2.67947,-2.56648 -4.74385,-3.04862 -13.05333,-3.04862 -6.85875,0 -7.87643,0.12197 -10.00961,1.19962 -6.46982,3.26845 -6.46982,11.39349 0,14.66194 2.14224,1.08223 3.13309,1.19847 10.12577,1.18791 6.36458,-0.01 8.13662,-0.1868 9.90587,-0.99046 z"
+       id="path2731"
        transform="scale(0.26458333)" />
   </g>
 </svg>
