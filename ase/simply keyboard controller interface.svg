@@ -24,14 +24,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0074671"
-     inkscape:cx="478.92385"
-     inkscape:cy="418.37596"
+     inkscape:cx="478.92383"
+     inkscape:cy="587.11595"
      inkscape:window-width="1680"
      inkscape:window-height="956"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7247" />
+     inkscape:current-layer="layer4" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -307,6 +307,11 @@
          style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:4.5731;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
          d="m 427.94635,723.84501 c -0.33838,-2.04721 -0.62016,-17.90381 -0.62617,-35.23688 l -0.0109,-31.51468 h 6.94812 6.94811 v 35.23688 35.23689 h -6.32195 -6.32195 z"
          id="path1034"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:4.5731;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 349.24331,727.92224 c -2.02058,-0.44223 -2.16774,-1.20892 -2.79381,-14.55532 -0.36348,-7.74867 -0.52032,-23.46846 -0.34854,-34.93286 l 0.31234,-20.84435 h 7.44441 7.44441 v 34.41066 c 0,18.92586 -0.31293,34.72317 -0.69541,35.10513 -0.88262,0.88144 -8.54982,1.43251 -11.3634,0.81674 z"
+         id="path1016"
          transform="scale(0.26458333)" />
     </g>
   </g>
