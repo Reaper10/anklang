@@ -24,14 +24,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3504346"
-     inkscape:cx="341.74185"
-     inkscape:cy="1037.0736"
+     inkscape:cx="454.29819"
+     inkscape:cy="1034.852"
      inkscape:window-width="1680"
      inkscape:window-height="956"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2778" />
+     inkscape:current-layer="layer4" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -320,6 +320,26 @@
          style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
          d="m 355.33437,909.06266 c -1.9965,-1.71732 -2.01303,-1.79735 -0.76473,-3.70251 1.72779,-2.63694 5.86712,-2.74698 7.53575,-0.20034 1.39681,2.1318 0.88919,3.70306 -1.55631,4.81731 -2.52989,1.15269 -2.88362,1.09066 -5.21471,-0.91446 z"
          id="path3103"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 639.75602,908.18803 c -1.24274,-0.61332 -2.86701,-2.14352 -3.60949,-3.40043 -1.68408,-2.85092 -2.4229,-10.87378 -1.21006,-13.14 1.11071,-2.07537 5.06529,-4.51939 7.31854,-4.52301 l 1.72048,-0.003 -2.27585,3.97778 c -2.63851,4.61162 -2.7753,5.70773 -0.92167,7.38524 1.86978,1.69212 3.60814,1.53286 4.80921,-0.44061 0.55771,-0.91637 1.6972,-2.79925 2.5322,-4.18417 l 1.51818,-2.51804 1.18738,2.29614 c 1.5333,2.96507 1.52136,8.61058 -0.0237,11.22622 -2.43417,4.12072 -6.78024,5.42852 -11.04518,3.32365 z"
+         id="path1007"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 594.28019,947.7141 c -5.42874,-1.55759 -8.41611,-5.01818 -9.34465,-10.82493 -0.65226,-4.07903 0.65453,-7.49398 4.18526,-10.9371 2.90333,-2.83128 3.13602,-2.91433 8.0191,-2.86215 7.94541,0.0849 11.93858,3.29575 13.09535,10.52986 0.89398,5.59064 -2.15666,11.1744 -7.40813,13.5595 -3.3566,1.52449 -4.78585,1.61392 -8.54693,0.53482 z m 10.0333,-3.1769 c 4.5491,-2.98069 6.08321,-9.67827 3.27269,-14.28789 -3.12337,-5.12274 -8.9105,-6.69368 -14.03942,-3.81107 -3.54732,1.99371 -5.21764,4.87682 -5.21764,9.0061 0,8.30663 9.19838,13.53921 15.98437,9.09286 z"
+         id="path1046"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d=""
+         id="path1085"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d=""
+         id="path1124"
          transform="scale(0.26458333)" />
     </g>
   </g>
