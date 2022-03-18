@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3504346"
-     inkscape:cx="454.29819"
+     inkscape:cx="430.60212"
      inkscape:cy="1034.852"
      inkscape:window-width="1680"
      inkscape:window-height="956"
@@ -340,6 +340,21 @@
          style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
          d=""
          id="path1124"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 588.04394,905.569 c -2.08123,-1.6371 -4.15783,-5.06402 -4.15783,-6.86148 0,-0.89886 0.60466,-0.84663 3.66637,0.31673 3.31034,1.25783 3.77774,1.28174 4.81326,0.24621 0.63079,-0.63079 1.1469,-2.24473 1.1469,-3.58654 0,-2.30804 -0.23961,-2.52701 -4.44171,-4.05917 l -4.44171,-1.61953 1.0716,-2.07224 c 2.59385,-5.01595 8.00458,-5.95002 11.90023,-2.05437 3.03389,3.0339 3.82621,6.68369 2.62052,12.0713 -1.71582,7.66709 -7.50884,11.29156 -12.17763,7.61909 z"
+         id="path1339"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 353.40086,892.4346 c -1.01203,-1.08929 -2.03468,-3.26498 -2.27255,-4.83488 -0.40637,-2.68205 -0.33395,-2.82316 1.19967,-2.33741 5.0636,1.60383 5.5547,1.46483 6.43994,-1.8227 1.0017,-3.72 0.47607,-4.56707 -3.68644,-5.94082 -1.63494,-0.53958 -2.97261,-1.14836 -2.97261,-1.35285 0,-0.20448 0.82671,-1.78246 1.83713,-3.50662 3.18448,-5.4339 8.33855,-5.76509 10.02853,-0.64441 2.01889,6.11731 -0.27838,16.17039 -4.5737,20.01496 -2.7975,2.50393 -3.98981,2.58833 -5.99997,0.42473 z"
+         id="path1378"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.32771;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         d="m 529.82943,897.1186 v -7.03477 h 4.07277 4.07276 v 7.03477 7.03477 h -4.07276 -4.07277 z"
+         id="path1417"
          transform="scale(0.26458333)" />
     </g>
   </g>
