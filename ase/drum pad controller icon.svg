@@ -31,7 +31,7 @@
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g2651"
      showguides="true"
      inkscape:guide-bbox="true" />
   <defs
@@ -311,6 +311,21 @@
          style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.45201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
          d="M 19.246636,957.4258 V 824.20889 H 190.95682 362.66701 V 957.4258 1090.6427 H 190.95682 19.246636 Z m 331.176104,126.7586 1.67749,-1.175 V 971.29663 c 0,-75.56307 -0.25284,-112.18521 -0.78133,-113.17271 -0.76875,-1.43641 -3.38739,-1.45992 -162.62639,-1.45992 -159.238995,0 -161.857643,0.0235 -162.626388,1.45992 -0.528493,0.9875 -0.781326,37.60964 -0.781326,113.17271 v 111.71277 l 1.677481,1.175 c 1.505449,1.0544 18.091568,1.1749 161.730233,1.1749 143.63867,0 160.22478,-0.1205 161.73023,-1.1749 z"
          id="path2813"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.45201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="m 253.22535,994.78692 v -13.58586 h 16.22756 16.22755 v 13.58586 13.58588 h -16.22755 -16.22756 z"
+         id="path2942"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.45201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="m 206.42961,994.78692 v -13.58586 h 16.22755 16.22756 v 13.58586 13.58588 h -16.22756 -16.22755 z"
+         id="path2981"
+         transform="scale(0.26458333)" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.45201;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+         d="m 158.12432,994.78692 v -13.58586 h 16.22756 16.22756 v 13.58586 13.58588 h -16.22756 -16.22756 z"
+         id="path3020"
          transform="scale(0.26458333)" />
     </g>
   </g>
