@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="pitch bend icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.62270623"
+     inkscape:cx="476.95042"
+     inkscape:cy="472.93569"
+     inkscape:window-width="1680"
+     inkscape:window-height="956"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2308"
+       style="fill:none;stroke:#000000;stroke-width:0.768933;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 59.949166,101.64609 -4.10253,-48.192645 24.93079,0.42274 z M 57.585216,0.37563807 53.482676,48.568285 78.413466,48.145545 Z M 36.488268,46.187975 a 15.194715,4.1149777 0 0 1 -15.194715,4.11498 15.194715,4.1149777 0 0 1 -15.1947146,-4.11498 15.194715,4.1149777 0 0 1 15.1947146,-4.114971 15.194715,4.1149777 0 0 1 15.194715,4.114971 z m 0.899848,1.40152 A 15.621192,44.466024 0 0 1 21.766924,92.055515 15.621192,44.466024 0 0 1 6.1457314,47.589495 15.621192,44.466024 0 0 1 21.766924,3.1234651 15.621192,44.466024 0 0 1 37.388116,47.589495 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4" />
+</svg>
