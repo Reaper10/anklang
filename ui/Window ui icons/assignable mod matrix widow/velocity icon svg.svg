@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="controller focus icon svg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.66245342"
+     inkscape:cx="411.34967"
+     inkscape:cy="260.39567"
+     inkscape:window-width="1680"
+     inkscape:window-height="956"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect2019"
+       is_visible="true"
+       lpeversion="1"
+       bendpath="M 28.100586,15.232093 C 72.068152,-40.916635 96.11976,12.60587 96.11976,12.60587"
+       prop_scale="0.93706946"
+       scale_y_rel="false"
+       vertical="false"
+       hide_knot="false"
+       bendpath-nodetypes="cc" />
+    <inkscape:path-effect
+       effect="bend_path"
+       id="path-effect896"
+       is_visible="true"
+       lpeversion="1"
+       bendpath="M 39.655967,-0.26262307 76.5544,-1.9696681 l 36.89843,-1.707045"
+       prop_scale="0.86726605"
+       scale_y_rel="false"
+       vertical="false"
+       hide_knot="false"
+       bendpath-nodetypes="ccc" />
+    <inkscape:path-effect
+       effect="rough_hatches"
+       id="path-effect2461"
+       is_visible="true"
+       lpeversion="1"
+       direction="69.99843,260.92094 , 8.1437712,0"
+       dist_rdm="6;1"
+       growth="0"
+       do_bend="true"
+       bender="69.99843,265.92094 , 5,0"
+       bottom_edge_variation="1.4602372;1"
+       top_edge_variation="1.4602372;1"
+       bottom_tgt_variation="0;1"
+       top_tgt_variation="0;1"
+       scale_bf="1"
+       scale_bb="1"
+       scale_tf="1"
+       scale_tb="1"
+       top_smth_variation="0;1"
+       bottom_smth_variation="0;1"
+       fat_output="true"
+       stroke_width_top="1"
+       stroke_width_bottom="1"
+       front_thickness="1"
+       back_thickness="0.25" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect1945"
+       is_visible="true"
+       lpeversion="1"
+       pattern="m 33.860958,87.614548 h 14.800324 c 5.651367,0 10.201025,4.549657 10.201025,10.201025 v 12.157417 c 0,5.65137 -4.549658,10.20103 -10.201025,10.20103 H 33.860958 c -5.651368,0 -10.201025,-4.54966 -10.201025,-10.20103 V 97.815573 c 0,-5.651368 4.549657,-10.201025 10.201025,-10.201025 z"
+       copytype="repeated"
+       prop_scale="1.28"
+       scale_y_rel="false"
+       spacing="2.6"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect1762"
+       is_visible="true"
+       lpeversion="1"
+       pattern="#rect1629"
+       copytype="repeated"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1376"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.616391;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+       inkscape:transform-center-x="3.1989781"
+       inkscape:transform-center-y="1.1770265"
+       d="m 25.463293,38.260417 -8.594938,-0.0505 3.915297,5.67237 4.245478,5.54932 4.671625,-5.37014 4.319061,-5.47779 z m -3.575428,-5.98155 h 5.541838 c 0.958165,0 1.729541,0.57156 1.729541,1.28154 l 10e-7,2.24767 c 0,0.70998 -0.771379,1.28155 -1.729542,1.28155 h -5.541839 c -0.958166,0 -1.729541,-0.57157 -1.729544,-1.28155 l 1e-6,-2.24767 c 10e-7,-0.70998 0.771378,-1.28154 1.729544,-1.28154 z M 19.426421,24.61979 h 9.094635 c 0.950718,0 1.71609,0.56712 1.71609,1.27158 v 2.230187 c 1e-6,0.70445 -0.765374,1.27158 -1.716089,1.27158 h -9.094634 c -0.950714,0 -1.716094,-0.56713 -1.716091,-1.27158 l -1e-6,-2.230187 c 1e-6,-0.70445 0.765377,-1.27158 1.71609,-1.27158 z m -3.724094,-7.9471 h 16.932892 c 0.938063,0 1.693248,0.55958 1.693248,1.25466 l 10e-7,2.2005 c -2e-6,0.69507 -0.755188,1.25465 -1.693247,1.25465 H 15.702326 c -0.938057,0 -1.693246,-0.55958 -1.693246,-1.25465 v -2.20051 c 0,-0.69507 0.755189,-1.25464 1.693247,-1.25465 z m -5.042183,-7.4699403 28.980768,-10e-6 c 0.91524,0 1.652056,0.54597 1.652057,1.2241303 l 2e-6,2.14698 c 0,0.67817 -0.736817,1.22413 -1.652056,1.22413 H 10.660143 c -0.9152388,0 -1.6520558,-0.54597 -1.6520558,-1.22413 l 10e-7,-2.14697 c 0,-0.6781703 0.736817,-1.2241303 1.6520558,-1.2241303 z" />
+  </g>
+</svg>
