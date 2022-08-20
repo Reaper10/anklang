@@ -11,6 +11,7 @@
    sodipodi:docname="velocity icon svg.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -24,18 +25,30 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.66245342"
-     inkscape:cx="409.08537"
+     inkscape:cx="406.06629"
      inkscape:cy="260.39567"
      inkscape:window-width="1680"
      inkscape:window-height="956"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showguides="true"
      inkscape:guide-bbox="true" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient871">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop867" />
+      <stop
+         style="stop-color:#808000;stop-opacity:1"
+         offset="1"
+         id="stop869" />
+    </linearGradient>
     <inkscape:path-effect
        effect="bend_path"
        id="path-effect2019"
@@ -115,6 +128,16 @@
        vertical_pattern="false"
        hide_knot="false"
        fuse_tolerance="0" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient871"
+       id="linearGradient873"
+       x1="111.83176"
+       y1="78.282234"
+       x2="112.09814"
+       y2="130.50963"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.7987983,-7.5885839)" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -152,14 +175,21 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Layer 4" />
+     inkscape:label="Layer 4">
+    <path
+       id="path834"
+       style="fill:url(#linearGradient873);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.016;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
+       inkscape:transform-center-x="3.1989781"
+       inkscape:transform-center-y="1.1770265"
+       d="m 111.73351,111.74986 -8.59494,-0.0505 3.9153,5.67237 4.24547,5.54932 4.67163,-5.37014 4.31906,-5.47779 z m -3.57543,-5.98155 h 5.54184 c 0.95816,0 1.72954,0.57156 1.72954,1.28154 v 2.24767 c 0,0.70998 -0.77138,1.28155 -1.72954,1.28155 h -5.54184 c -0.95817,0 -1.72954,-0.57157 -1.72955,-1.28155 l 1e-5,-2.24767 c 0,-0.70998 0.77137,-1.28154 1.72954,-1.28154 z m -2.46144,-7.659074 h 9.09463 c 0.95072,0 1.71609,0.56712 1.71609,1.27158 V 101.611 c 0,0.70445 -0.76537,1.27158 -1.71609,1.27158 h -9.09463 c -0.95072,0 -1.7161,-0.56713 -1.71609,-1.27158 v -2.230184 c 0,-0.70445 0.76537,-1.27158 1.71609,-1.27158 z m -3.7241,-7.947103 h 16.93289 c 0.93807,0 1.69325,0.55958 1.69325,1.25466 v 2.200503 c 0,0.69507 -0.75519,1.25465 -1.69324,1.25465 h -16.9329 c -0.93806,0 -1.69325,-0.55958 -1.69325,-1.25465 v -2.200513 c 0,-0.69507 0.75519,-1.25464 1.69325,-1.25465 z m -5.042179,-7.46994 28.980769,-1e-5 c 0.91524,0 1.65205,0.54597 1.65205,1.22413 l 1e-5,2.14698 c 0,0.67817 -0.73682,1.22413 -1.65206,1.22413 H 96.93036 c -0.915239,0 -1.652056,-0.54597 -1.652056,-1.22413 l 10e-7,-2.14697 c 0,-0.67817 0.736817,-1.22413 1.652056,-1.22413 z" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Layer 5">
     <path
        id="path865"
-       style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:1.516;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#666666;stroke-width:1.516;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke markers fill"
        inkscape:transform-center-x="3.1989781"
        inkscape:transform-center-y="1.1770265"
        d="m 97.754539,42.254408 -8.594938,-0.0505 3.915297,5.67237 4.245478,5.54932 4.671624,-5.37014 4.31906,-5.47779 z m -3.575428,-5.98155 h 5.541838 c 0.958161,0 1.729541,0.57156 1.729541,1.28154 v 2.24767 c 0,0.70998 -0.77138,1.28155 -1.729541,1.28155 H 94.17911 c -0.958166,0 -1.729541,-0.57157 -1.729544,-1.28155 l 10e-7,-2.24767 c 10e-7,-0.70998 0.771378,-1.28154 1.729544,-1.28154 z m -2.461444,-7.659077 h 9.094633 c 0.95072,0 1.71609,0.56712 1.71609,1.27158 v 2.230187 c 0,0.70445 -0.76537,1.27158 -1.71609,1.27158 h -9.094631 c -0.950714,0 -1.716094,-0.56713 -1.716091,-1.27158 l -10e-7,-2.230187 c 10e-7,-0.70445 0.765377,-1.27158 1.71609,-1.27158 z m -3.724094,-7.9471 h 16.932897 c 0.93806,0 1.69324,0.55958 1.69324,1.25466 v 2.2005 c 0,0.69507 -0.75518,1.25465 -1.69324,1.25465 H 87.993572 c -0.938057,0 -1.693246,-0.55958 -1.693246,-1.25465 v -2.20051 c 0,-0.69507 0.755189,-1.25464 1.693247,-1.25465 z m -5.042183,-7.46994 28.98077,-10e-6 c 0.91524,0 1.65205,0.54597 1.65206,1.22413 v 2.14698 c 0,0.67817 -0.73682,1.22413 -1.65206,1.22413 H 82.951389 c -0.915239,0 -1.652056,-0.54597 -1.652056,-1.22413 l 10e-7,-2.14697 c 0,-0.67817 0.736817,-1.22413 1.652056,-1.22413 z" />
