@@ -7,7 +7,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="memory card box icon svg.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,16 +24,18 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.9983453"
-     inkscape:cx="92.152485"
-     inkscape:cy="925.03065"
+     inkscape:cx="91.651656"
+     inkscape:cy="39.565469"
      inkscape:window-width="1680"
      inkscape:window-height="956"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -380,5 +382,14 @@
          id="path2854"
          transform="scale(0.26458333)" />
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       id="path349"
+       style="fill:none;stroke:#4d4d4d;stroke-width:2.087;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 85.263509,62.417419 85.211789,78.8988 M 108.4176,62.417419 108.36588,78.8988 M 85.252057,62.178714 108.41762,62.417645 m -2.58416,2.419983 2.58416,-2.419983 m -20.581413,2.181052 -2.58415,-2.419983 m 2.579569,2.422266 17.523964,0.362096 m -0.10345,13.862172 0.35891,-14.226551 M 87.477294,78.825248 87.836203,64.598697 M 122.16996,51.90947 120.17313,80.952811 M 65.961953,51.909922 70.959232,80.431861 M 65.964124,51.90947 h 56.205836 m -6.62332,7.911452 6.62332,-7.911452 M 72.587405,59.820922 65.964124,51.90947 m 19.647115,32.374476 h 15.628051 c 2.24754,0 4.05693,1.848474 4.05693,4.14457 v 0.975573 c 0,2.296096 -1.80939,4.144581 -4.05693,4.144581 H 85.611239 c -2.24754,0 -4.056931,-1.848485 -4.056931,-4.144581 v -0.975573 c 0,-2.296096 1.809391,-4.14457 4.056931,-4.14457 z M 76.746233,57.010272 h 35.294107 c 2.24753,0 4.05692,1.848474 4.05692,4.14457 V 74.62217 c 0,2.296097 -1.80939,4.144581 -4.05692,4.144581 H 76.746233 c -2.247541,0 -4.056931,-1.848484 -4.056931,-4.144581 V 61.154842 c 0,-2.296096 1.80939,-4.14457 4.056931,-4.14457 z m -2.853106,21.756479 h 42.834453 c 2.24754,0 4.05694,1.848484 4.05694,4.144581 v 11.489465 c 0,2.296097 -1.8094,4.144571 -4.05694,4.144571 H 73.893127 c -2.247539,0 -4.056931,-1.848474 -4.056931,-4.144571 V 82.911332 c 0,-2.296097 1.809392,-4.144581 4.056931,-4.144581 z" />
   </g>
 </svg>
